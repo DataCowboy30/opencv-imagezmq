@@ -1,0 +1,6 @@
+imutils
+imagezmq
+argparse
+socket   
+opencv
+numpy
